@@ -1,0 +1,98 @@
+{
+    "TABS": {
+        "HOME": "Home",
+        "MENU": "Menu",
+        "GALLERY": "Gallery",
+        "CONTACTS": "Contacts"
+    },
+    "HEADER": {
+        "ADDRESS": "Sofia, 10 Stoian Kambarev str."
+    },
+    "HOME": {
+        "PARAGRAPH_1": "opened doors on 15th of December 2023 in Studentski grad, Sofia city on 10 Stoian Kambarev str.",
+        "PARAGRAPH_2": "The establishment provides over a hundred different hookahs and hundreds of different tobaccos.",
+        "PARAGRAPH_3": "We also have assortments of dishes and different lunch menu each day. Wide variety of cocktails and alcoholic drinks.",
+        "PARAGRAPH_4": "This spring we will open an outdoors closed garden which will allow the gathering of big parties."
+    },
+    "MENU": {
+        "SALADS": {
+            "TITLE": "Salads",
+            "GREEK_SALAD": "Greek salad",
+            "CESAR_SALAD": "Cesar salad",
+            "CAPRESE": "Caprese"
+        },
+        "APPETIZERS": {
+            "TITLE": "Appetizers",
+            "MEAT_CHEESE": "Meat delicacies and cheese",
+            "TARAMASALATA": "Taramasalata",
+            "FRENCH_FRIES": "French fries with white cheese",
+            "WEDGES": "Potato wedges",
+            "FRIED_CHEESE": "Fried cheese with blueberry jam",
+            "CHICKEN_FINGERS": "Chicken fingers",
+            "PROSCIUTTO_BRUSCHETTA": "Prosciutto bruschetta",
+            "SALMON_BRUSCHETTA": "Salmon bruschetta"
+        },
+        "MAIN": {
+            "TITLE": "Antres",
+            "BEEF_BURGER": "Beef burger",
+            "FRIED_CHICKEN_BURGER": "Fried chicken burger",
+            "MUSHROOM_RISOTTO": "Mushroom risotto",
+            "CHICKEN_RISOTTO": "Chicken risotto",
+            "CHICKEN_BLACK_RICE": "Chicken breast with black rice",
+            "PORK_CHOP": "Pork chop"
+        },
+        "DESSERTS": {
+            "TITLE": "Desserts",
+            "BLUEBERRY_CHEESECAKE": "BLUEBERRY CHEESECAKE",
+            "MONO_BUENO": "MONO BUENO",
+            "MONO_APPLE": "MONO APPLE",
+            "CHOCOLATE_CHEESECAKE": "CHOCOLATE CHEESECAKE",
+            "MONO_LINDT": "MONO LINDT",
+            "MONO_RED_VELVET": "MONO RED VELVET"
+        },
+        "COCKTAILS": {
+            "TITLE": "Cocktails",
+            "BLOODY_MARY": "Bloody Mary",
+            "SANGIRA": "Sangria",
+            "APEROL_SPRITZ": "Aperol Spritz",
+            "PUSSY_CRASHER": "Pussy Crasher",
+            "BLUE_LAGOON": "Blue Lagoon",
+            "CHOCOLATE_DREAMS": " Chocolate Dreams",
+            "MAI_TAI": "Mai Tai",
+            "LONG_ISLAND": "Long Island",
+            "TEQUILA_SUNRISE": "Tequila Sunrise",
+            "CUBA_LIBRE": "Cuba Libre",
+            "MOJITO": "Mojito",
+            "COSMOPOLITAN": "Cosmopolitan",
+            "DAIQUIRI": "Daiquiri",
+            "MARGARITA": "Margarita",
+            "SEX_ON_THE_BEACH": "Sex on the beach"
+        }
+    },
+    "CONTACTS": {
+        "CONTACTS": "Contacts",
+        "MAP": "Google Map",
+        "NO_CONSENT": "Please, allow the usage of your personal data in order to use Google Maps"
+    },
+    "CONSENT": {
+        "TEXT": "We use Google Maps services to provide you with interactive maps and location-based information. By continuing to use our website, you consent to the collection and processing of your personal data.",
+        "MORE": "Learn more",
+        "INFORMATION": {
+            "P_1": "We want to inform you that our website utilizes Google Maps services to provide location-based information and interactive maps. In order to enhance your experience and provide you with accurate geographical data, we collect and process certain personal data. Your privacy and data protection are of utmost importance to us, and we want to ensure that you are fully informed about the data we collect and how it is used.",
+            "P_2": "Purpose of Data Collection:",
+            "P_3": "We collect your location data and other relevant information to display maps and provide location-based services through Google Maps on our website.",
+            "P_4": "Types of Data Collected:",
+            "P_5": "The data we collect may include your IP address, geographical location, and cookies to improve the functionality and accuracy of our mapping services.",
+            "P_6": "Third-Party Disclosure:",
+            "P_7": "Please note that your data will be shared with Google, as they provide the mapping service used on our website. Google's privacy policy governs the collection and processing of data by Google Maps.",
+            "P_8": "User Consent:",
+            "P_9": "By continuing to use our website and accessing the Google Maps services, you consent to the collection and processing of your personal data as described in this notice.",
+            "P_10": "Opt-Out Options",
+            "P_11": "You have the option to withdraw your consent at any time. You can manage your preferences by deleting the cookies on this website. Please note that certain features of our website may not function properly without access to location data.",
+            "P_12": "Cookie Consent:",
+            "P_13": "We also use cookies to enhance your browsing experience and provide personalized content. By continuing to use our website, you consent to the use of cookies.",
+            "CLOSE": "Close"
+        },
+        "CONFIRM": "I agree"
+    }
+}

@@ -5,9 +5,6 @@
         "GALLERY": "Gallery",
         "CONTACTS": "Contacts"
     },
-    "HEADER": {
-        "ADDRESS": "Sofia, 10 Stoian Kambarev str."
-    },
     "HOME": {
         "PARAGRAPH_1": "opened doors on 15th of December 2023 in Studentski grad, Sofia city on 10 Stoian Kambarev str.",
         "PARAGRAPH_2": "The establishment provides over a hundred different hookahs and hundreds of different tobaccos.",
@@ -71,6 +68,9 @@
     },
     "CONTACTS": {
         "CONTACTS": "Contacts",
+        "ADDRESS": "Sofia, 10 Stoian Kambarev str.",
+        "PHONE": "0877 121 239",
+        "EMAIL": "incubobaranddinner@gmail.com",
         "MAP": "Google Map",
         "NO_CONSENT": "Please, allow the usage of your personal data in order to use Google Maps"
     },
